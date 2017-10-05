@@ -8,6 +8,10 @@ py-apitest - test apis.
 - [LICENSE](#license)
 
 # DESCRIPTION
+
+**NOTE:** this is a side project. if you are looking for more serious projects, try
+[debugtalk/ApiTestEngine](https://github.com/debugtalk/ApiTestEngine).
+
 **py-apitest** is a command-line program to test an API workflow.
 It requires the Python interpreter, version 2.7 or above.
 Please install the dependencies specified in [requirements.txt](/requirements.txt).
