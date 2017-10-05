@@ -105,7 +105,7 @@ schema = {
 # TODO
 
  - [ ] package into a proper python module
- - [ ] make executable from commandline (install scripts)
+ - [x] make executable from commandline (install scripts)
  - [ ] optional suffixes for `--testdir`
  - [ ] more request methods
  - [ ] custom request handler
